@@ -6,6 +6,7 @@ p{
     font-size:30px;
     margin: 0px;
 }
+/*スケルトン作成*/
 #wrapper{
     width: 1280px;
     height: 1500px;
@@ -79,4 +80,10 @@ p{
     top:100px;
     opacity:0.8;
 }
-
+/* スケルトン作成終わり */
+/* スライドの表示 */
+#slide{
+    position:relative;
+    width:100%;  
+    opacity: 0.8;
+}
