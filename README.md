@@ -7,5 +7,5 @@ html,css,javascript
 node.js(express)  
 ・インフラ  
 Google app engin  
-[LINK]
-[youtube:](https://youtube.com/channel/UCN75Xrcdj9oSJqdGc_UCb2w)
+[LINK]  
+[youtube](https://youtube.com/channel/UCN75Xrcdj9oSJqdGc_UCb2w)
