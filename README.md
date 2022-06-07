@@ -1,7 +1,7 @@
 [ABOUT]  
 オリジナルキャラクタ「シテモイ」の紹介ページです。  
 [サイト](https://unified-canyon-350709.dt.r.appspot.com)  
-[TECHNOLOGY]  
+[TECHNOLOGIES]  
 ・フロンドエンド  
 html,css,javascript  
 ・サーバーサイド  
