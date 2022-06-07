@@ -7,6 +7,6 @@ html,css,javascript
 ・サーバーサイド  
 node.js(express)  
 ・インフラ  
-Google App Engin  
+Google App Engine  
 [LINK]  
 [youtube](https://youtube.com/channel/UCN75Xrcdj9oSJqdGc_UCb2w)
